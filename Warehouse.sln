@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse.csproj", "{3F057906-4E57-45C1-A245-D29BF5BB4CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Domain", "..\Warehouse.Domain\Warehouse.Domain.csproj", "{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F057906-4E57-45C1-A245-D29BF5BB4CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F057906-4E57-45C1-A245-D29BF5BB4CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F057906-4E57-45C1-A245-D29BF5BB4CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F057906-4E57-45C1-A245-D29BF5BB4CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7622A37-5C79-49B7-9816-7A6D33FAA637}
+	EndGlobalSection
+EndGlobal
