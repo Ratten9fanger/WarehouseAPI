@@ -3,9 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse.csproj", "{3F057906-4E57-45C1-A245-D29BF5BB4CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warehouse", "Warehouse.csproj", "{3F057906-4E57-45C1-A245-D29BF5BB4CC1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8} = {ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse.Domain", "..\Warehouse.Domain\Warehouse.Domain.csproj", "{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warehouse.Domain", "..\Warehouse.Domain\Warehouse.Domain.csproj", "{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
