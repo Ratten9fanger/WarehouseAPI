@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Warehouse.Domain.csproj": {}
+    "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.Domain\\Warehouse.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Warehouse.Domain.csproj": {
+    "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.Domain\\Warehouse.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Warehouse.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.Domain\\Warehouse.Domain.csproj",
         "projectName": "Warehouse.Domain",
-        "projectPath": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Warehouse.Domain.csproj",
+        "projectPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.Domain\\Warehouse.Domain.csproj",
         "packagesPath": "C:\\Users\\zu201\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\obj\\",
+        "outputPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zu201\\AppData\\Roaming\\NuGet\\NuGet.Config",

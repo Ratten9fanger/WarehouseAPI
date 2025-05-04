@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.csproj": {}
+    "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\Warehouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.csproj": {
+    "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\Warehouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.csproj",
+        "projectUniqueName": "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\Warehouse.csproj",
         "projectName": "Warehouse",
-        "projectPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.csproj",
+        "projectPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\Warehouse.csproj",
         "packagesPath": "C:\\Users\\zu201\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\obj\\",
+        "outputPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zu201\\AppData\\Roaming\\NuGet\\NuGet.Config",

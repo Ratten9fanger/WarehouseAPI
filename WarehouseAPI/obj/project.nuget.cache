@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UaYTrBflajs=",
+  "dgSpecHash": "xpZp3GSazOc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\Warehouse.csproj",
+  "projectFilePath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\WarehouseAPI\\Warehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zu201\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\zu201\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
