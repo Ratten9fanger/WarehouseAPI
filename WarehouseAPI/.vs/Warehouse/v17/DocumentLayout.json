@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zu201\\source\\repos\\Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\\u0441ustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\productcominghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\productleavinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0B270-4B8A-48EC-8E12-ECC87BDA2AB8}|..\\Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\zu201\\source\\repos\\warehouse.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0421ustomer.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\\u0421ustomer.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\\u0421ustomer.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\\u0421ustomer.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\\u0421ustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:19:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductLeavingHistory.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\ProductLeavingHistory.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\ProductLeavingHistory.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\ProductLeavingHistory.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\ProductLeavingHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:15:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductComingHistory.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\ProductComingHistory.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\ProductComingHistory.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\ProductComingHistory.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\ProductComingHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:14:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Supplier.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:12:49.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Sector.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\Sector.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Sector.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\Sector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:02:22.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:56:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Warehouse.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\zu201\\source\\repos\\Warehouse.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Warehouse.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:55:27.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

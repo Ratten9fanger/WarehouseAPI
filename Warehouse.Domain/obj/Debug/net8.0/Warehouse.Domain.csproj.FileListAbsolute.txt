@@ -1,0 +1,4 @@
+C:\Users\zu201\source\repos\Warehouse.Domain\obj\Debug\net8.0\Warehouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zu201\source\repos\Warehouse.Domain\obj\Debug\net8.0\Warehouse.Domain.AssemblyInfoInputs.cache
+C:\Users\zu201\source\repos\Warehouse.Domain\obj\Debug\net8.0\Warehouse.Domain.AssemblyInfo.cs
+C:\Users\zu201\source\repos\Warehouse.Domain\obj\Debug\net8.0\Warehouse.Domain.csproj.CoreCompileInputs.cache
